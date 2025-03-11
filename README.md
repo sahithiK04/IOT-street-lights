@@ -27,7 +27,7 @@ Installation Instructions
 
 Clone the Repository
 
-git clone https://github.com/sahithiK04/Intelligent-Street-Light-Automation.git
+git clone https://github.com/sahithiK04/IOT-street-lights/tree/main
 cd Intelligent-Street-Light-Automation
 
 Install Dependencies
